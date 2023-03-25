@@ -3,7 +3,7 @@
   "component": {
     "group": "net.tonimatasdev",
     "module": "devlib",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "devlib-1.0.0.jar",
-          "url": "devlib-1.0.0.jar",
+          "name": "devlib-1.0.1.jar",
+          "url": "devlib-1.0.1.jar",
           "size": 59782,
-          "sha512": "4b76814f46d3db80414a521a6ac85954429853b8c3ed4afe5b2b3aa378112458077338636a12e6db540fb2cbec58f418917d989b2d788b4acdbdc0b0ef39b04a",
-          "sha256": "3da14add7a8261c2303357fff55bd87d346ca3488ba428941b27efb9bf7d1a72",
-          "sha1": "201837438861760c8916a271a746878f54df2c9c",
-          "md5": "2f48338777c0971b6016a0793472d910"
+          "sha512": "b29e0af81ead2e02d9bc79b0a0d64b393e54d2e023b45468eddbb89f60476352eb4fa6bb0ca8fba509e78fede93b232577164c8bb72cc884d8c3b57a501307b9",
+          "sha256": "5a94341746b93908caf79feb40730b88bb37a5221f77c8796dec794cfa18b109",
+          "sha1": "eef194b8fa21f7a0f755f5aba92f601a119bc573",
+          "md5": "60ccbad4c211e3d11fc269597d975c63"
         }
       ]
     },
@@ -55,13 +55,13 @@
       ],
       "files": [
         {
-          "name": "devlib-1.0.0.jar",
-          "url": "devlib-1.0.0.jar",
+          "name": "devlib-1.0.1.jar",
+          "url": "devlib-1.0.1.jar",
           "size": 59782,
-          "sha512": "4b76814f46d3db80414a521a6ac85954429853b8c3ed4afe5b2b3aa378112458077338636a12e6db540fb2cbec58f418917d989b2d788b4acdbdc0b0ef39b04a",
-          "sha256": "3da14add7a8261c2303357fff55bd87d346ca3488ba428941b27efb9bf7d1a72",
-          "sha1": "201837438861760c8916a271a746878f54df2c9c",
-          "md5": "2f48338777c0971b6016a0793472d910"
+          "sha512": "b29e0af81ead2e02d9bc79b0a0d64b393e54d2e023b45468eddbb89f60476352eb4fa6bb0ca8fba509e78fede93b232577164c8bb72cc884d8c3b57a501307b9",
+          "sha256": "5a94341746b93908caf79feb40730b88bb37a5221f77c8796dec794cfa18b109",
+          "sha1": "eef194b8fa21f7a0f755f5aba92f601a119bc573",
+          "md5": "60ccbad4c211e3d11fc269597d975c63"
         }
       ]
     }
