@@ -1,0 +1,69 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.tonimatasdev",
+    "module": "devlib",
+    "version": "1.0.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.6.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "devlib-1.0.2.jar",
+          "url": "devlib-1.0.2.jar",
+          "size": 59436,
+          "sha512": "8f0f7a0db889487e55c110cc6a530064492a141518f002dcd141cb7c9fef9157dc85ffec28e83bf79f4ce429b65cba000d44aa7004dbbea2fff017d92dda66c8",
+          "sha256": "cad177f08ae74c4809aa8d7bf5354afe2e2e71b1f89f918341819a26621820c6",
+          "sha1": "b2788fc5a4fbd8650739992392b7016812cc5482",
+          "md5": "366c562e528f32ccbc6c2308411b0b84"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains",
+          "module": "annotations",
+          "version": {
+            "requires": "24.0.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "devlib-1.0.2.jar",
+          "url": "devlib-1.0.2.jar",
+          "size": 59436,
+          "sha512": "8f0f7a0db889487e55c110cc6a530064492a141518f002dcd141cb7c9fef9157dc85ffec28e83bf79f4ce429b65cba000d44aa7004dbbea2fff017d92dda66c8",
+          "sha256": "cad177f08ae74c4809aa8d7bf5354afe2e2e71b1f89f918341819a26621820c6",
+          "sha1": "b2788fc5a4fbd8650739992392b7016812cc5482",
+          "md5": "366c562e528f32ccbc6c2308411b0b84"
+        }
+      ]
+    }
+  ]
+}
